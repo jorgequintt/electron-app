@@ -1,2 +1,2 @@
-# Super simple Electron-React-App with hot reload.
-For personal use 
+# Super simple Electron-React-App boilerplate with hot reload.
+For personal use.
